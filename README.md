@@ -1,2 +1,1 @@
-hello
-# ling-529-example-repo
+A more detailed greeting. Hello!
